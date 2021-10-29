@@ -40,7 +40,7 @@ $ python3 -m venv venv && source venv/bin/activate
 
 8. You can find `results.tsv` under the sub-directory.
 
-### (Optional )1.2 Running a R Shiny Application
+### (Optional )1.2 Running an R Shiny Application
 
 1. Make sure R is pre-installed and run the following command.
 

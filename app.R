@@ -27,7 +27,7 @@ data <- read.table(
 
 # UI component
 ui <- navbarPage(
-    "Precision Biomarker Laboratory",
+    "Precision Biomarker Laboratories",
     tabPanel(
         "Post-Translational Modifications Browser",
         sidebarLayout(

@@ -38,7 +38,7 @@ $ python3 -m venv venv && source venv/bin/activate
 (venv) $ ptms-finder find ./files/input.tsv ./files/proteins.fasta ./files
 ```
 
-8. You can find `result.tsv` under the sub-directory.
+8. You can find `results.tsv` under the sub-directory.
 
 ### (Optional )1.2 Running a R Shiny Application
 
